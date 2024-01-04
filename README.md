@@ -8,6 +8,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Save this assignment to your Tableau Public account rather than GitHub.
 
+**Task**
+
 Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
 
 The following are questions you may wish to answer. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
